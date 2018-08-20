@@ -1,6 +1,6 @@
 ---
 title: "Gapminder Exercise Template"
-author: "Shounak Chattopadhyay"
+author: "Shounak Chattopadhyay + Pritam Dey"
 date: "`r Sys.Date()`"
 output: html_document
 ---
